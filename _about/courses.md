@@ -3,7 +3,7 @@ layout: page
 title: List of Courses
 ---
 
-Here's a list of courses I took while at IIT Bombay.
+Here's a list of courses I am taking/have taken so far at IIT Bombay. 
 
 ### Department of Computer Science
 
