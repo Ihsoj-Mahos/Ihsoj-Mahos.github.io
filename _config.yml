@@ -49,6 +49,8 @@ social-network-links:
 collections:
   notes:
     output: true
+  publications:
+    output: true
   blog:
     output: true
   about:
