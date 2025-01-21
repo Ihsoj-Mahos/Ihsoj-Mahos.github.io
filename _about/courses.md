@@ -32,8 +32,11 @@ Here's a list of courses I am taking/have taken so far at IIT Bombay.
 * CS 387: Database and Information Systems Lab
 * CS 602: Applied Algorithms 
 * CS 608: Approximation Algorithms
+* CS 760 : Topics in Computational Complexity
+* CS 783 : Theoretical Foundations of Cryptography
 * CS 774: Spectral Graph Theory 
 * CS 779: Extremal Combinatorics
+* CS 6106 : Statistical Learning Theory
 
 ### Department of Mathematics
 
@@ -45,15 +48,21 @@ Here's a list of courses I am taking/have taken so far at IIT Bombay.
 * MA 403: Real Analysis
 * MA 406: General Topology
 * MA 412: Complex Analysis
+* MA 419 : Basic Algebra
+* MA 5106 : Fourier Analysis
 
 ### Miscellaneous
 
 * PH 107: Quantum Physics and Application
 * PH 108: Basics of Electricity & Magnetism
-* CH105: Organic & Inorganic Chemistry
-* CH107: Physical Chemistry
-* ME119: Engineering Graphics & Drawing
-* BB101: Biology
-* EE101: Introduction to Electrical and Electronics Circuits
-* HS101: Economics
-* HS305: Reading Literature
+* CH 105: Organic & Inorganic Chemistry
+* CH 107: Physical Chemistry
+* ME 119: Engineering Graphics & Drawing
+* BB 101: Biology
+* EE 101: Introduction to Electrical and Electronics Circuits
+* HS 101: Economics
+* HS 200 : Environmental Studies
+* ES 200 : Environmental Studies: Science and Engineering
+* HS 305 : Reading Literature
+* IE 647 : Applied Integer Programming
+* SC 607 : Optimization	
